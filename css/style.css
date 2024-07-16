@@ -10,7 +10,7 @@
   display: flex;
   justify-content: center; 
   align-items: center;     
-  height: 50vh;           
+  height: 55vh;           
 }
 
 .container2 {
@@ -40,7 +40,7 @@
   justify-content: center; 
   align-items: center;    
   height: 60vh;           
-}
+} 
 
 .logo img {
   display: flex;
